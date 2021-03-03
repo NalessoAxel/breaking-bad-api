@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/breaking-badge-api/static/css/main.f0dad69b.chunk.css",
+    "main.js": "/breaking-badge-api/static/js/main.ab4ebf20.chunk.js",
+    "main.js.map": "/breaking-badge-api/static/js/main.ab4ebf20.chunk.js.map",
+    "runtime-main.js": "/breaking-badge-api/static/js/runtime-main.16a1f41e.js",
+    "runtime-main.js.map": "/breaking-badge-api/static/js/runtime-main.16a1f41e.js.map",
+    "static/js/2.2dabac9d.chunk.js": "/breaking-badge-api/static/js/2.2dabac9d.chunk.js",
+    "static/js/2.2dabac9d.chunk.js.map": "/breaking-badge-api/static/js/2.2dabac9d.chunk.js.map",
+    "static/js/3.bc1c4c93.chunk.js": "/breaking-badge-api/static/js/3.bc1c4c93.chunk.js",
+    "static/js/3.bc1c4c93.chunk.js.map": "/breaking-badge-api/static/js/3.bc1c4c93.chunk.js.map",
+    "index.html": "/breaking-badge-api/index.html",
+    "static/css/main.f0dad69b.chunk.css.map": "/breaking-badge-api/static/css/main.f0dad69b.chunk.css.map",
+    "static/js/2.2dabac9d.chunk.js.LICENSE.txt": "/breaking-badge-api/static/js/2.2dabac9d.chunk.js.LICENSE.txt",
+    "static/media/App.css": "/breaking-badge-api/static/media/bg.085908ea.jpg",
+    "static/media/logo.e6ecab44.png": "/breaking-badge-api/static/media/logo.e6ecab44.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.16a1f41e.js",
+    "static/js/2.2dabac9d.chunk.js",
+    "static/css/main.f0dad69b.chunk.css",
+    "static/js/main.ab4ebf20.chunk.js"
+  ]
+}
